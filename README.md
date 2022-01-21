@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A very simple shopping list made to demonstrate React fundamentals and enzyme testing.
 
 ## Available Scripts
 
